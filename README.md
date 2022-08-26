@@ -4,7 +4,7 @@
 # We-Will-Be-Back
 
 We will be back page for TopicList! (Code)
-Build Using Astro
+Build Using Astro. Its Slightly better from v1
 #Preview 
 <img src="https://media.discordapp.net/attachments/860014924264767529/1012738236591898624/unknown.png?width=1440&height=510" style="width: 100%"></img>
 
